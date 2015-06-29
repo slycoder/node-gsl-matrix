@@ -1,0 +1,25 @@
+{
+  "name": "node-gsl-matrix",
+  "version": "0.1.0",
+  "description": "A node library for matrix manipulation leveraging GSL",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slycoder/node-gsl-matrix.git"
+  },
+  "keywords": [
+    "math",
+    "gsl",
+    "vector",
+    "matrix"
+  ],
+  "author": "Jonathan Chang <slycoder@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slycoder/node-gsl-matrix/issues"
+  },
+  "homepage": "https://github.com/slycoder/node-gsl-matrix"
+}
