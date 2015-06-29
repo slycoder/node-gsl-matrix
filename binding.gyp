@@ -2,7 +2,7 @@
   'targets': [
     {
       'target_name': 'Matrix',
-      'sources': [ 'Matrix.cc' ],
+      'sources': [ 'src/Matrix.cc' ],
       'libraries': [ '-lgsl' ],
     }
   ]
