@@ -170,4 +170,4 @@ void init(Handle<Object> target) {
   Matrix::Init(target);
 }
 
-NODE_MODULE(binding, init);
+NODE_MODULE(Matrix, init);
